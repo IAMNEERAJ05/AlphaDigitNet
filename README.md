@@ -83,5 +83,4 @@ Feel free to fork, improve, and submit PRs!
 
 ---
 📝 **Author:** S. Neeraj Kumar  
-📧 **Contact:** seeramneeraj2005@gmail.com (mailto:seeramneeraj2005@gmail.com)
-
+📧 **Contact:** seeramneeraj2005@gmail.com 
